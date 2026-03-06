@@ -1,4 +1,9 @@
 streamlit
+Flask==2.3.2
+Flask-WTF==1.1.1
+Flask-Login==0.6.2
+Flask-Migrate==4.0.4
+Flask-SQLAlchemy==3.0.5
 numpy
 pandas
 scikit-learn
@@ -11,3 +16,8 @@ soundfile
 pydub
 web3
 groq
+python-dotenv
+rich==14.3.3
+pygments==2.19.2
+markdown-it-py==4.0.0
+mdurl==0.1.2
